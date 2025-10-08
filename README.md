@@ -2,21 +2,9 @@ GitDocify
 
 Acknowledgements
 
-Generate README Copy Download
-
 Preview Edit
 
 KALPTARU_TEXTILES Transforming Textiles into Tomorrow's Innovation
-
-last commitlast commit yesterdayyesterday javascriptjavascript
-93.8%93.8% languageslanguages 33
-
-Built with the tools and technologies:
-
-BraintreeBraintree ExpressExpress JSONJSON MarkdownMarkdown npmnpm
-MongooseMongoose
-
-.ENV.ENV JavaScriptJavaScript NodemonNodemon ReactReact AxiosAxios
 
 Table of Contents
 
